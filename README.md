@@ -26,8 +26,9 @@
 <br>
 
 
-## Instructions to run
+## Credits
 
+This project is a Rust port of the [Socrates project](https://github.com/GDGVIT/socrates-clients) by [SaurusXI](https://github.com/SaurusXI).
 
 ## Contributors
 
