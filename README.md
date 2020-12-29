@@ -3,7 +3,7 @@
 	<img src="https://user-images.githubusercontent.com/30529572/92081025-fabe6f00-edb1-11ea-9169-4a8a61a5dd45.png" alt="DSC VIT"/>
 </a>
 	<h2 align="center"> Research Paper of the Day Daemon </h2>
-	<h4 align="center"> Explore & Discover new research papers daily with `rpdd`, which has an integrated notification daemon to help you with the habit of staying informed. </h4>
+	<h4 align="center"> Explore & Discover new research papers daily with rpdd, which has an integrated notification daemon to help you with the habit of staying informed. </h4>
 </p>
 
 ---
@@ -28,7 +28,7 @@
 
 ## Credits
 
-This project is a Rust port of the [Socrates project](https://github.com/GDGVIT/socrates-clients) by [SaurusXI](https://github.com/SaurusXI).
+This project is a Rust port of the [Socrates Project](https://github.com/GDGVIT/socrates-clients) by [SaurusXI](https://github.com/SaurusXI).
 
 ## Contributors
 
