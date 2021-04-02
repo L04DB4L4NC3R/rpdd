@@ -2,7 +2,7 @@ pub mod cli;
 
 pub fn handle_cli_args() {
     let (cfg_path,
-        _interests,
+        interests,
         _duration_minutes,
         is_daemonized) = cli::parse();
 
@@ -18,4 +18,5 @@ pub fn handle_cli_args() {
     }
 
     // use cli args
+    print!("{}", interests);
 }
